@@ -1,0 +1,20 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "AdminHeader": {
+    "description": "Auto imported from components/admin/header.vue"
+  },
+  "AdminSidebar": {
+    "description": "Auto imported from components/admin/sidebar.vue"
+  },
+  "WebFooter": {
+    "description": "Auto imported from components/web/footer.vue"
+  },
+  "WebNavbar": {
+    "description": "Auto imported from components/web/navbar.vue"
+  },
+  "WebSlider": {
+    "description": "Auto imported from components/web/slider.vue"
+  }
+}
