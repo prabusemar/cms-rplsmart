@@ -2,176 +2,151 @@
   {
     "name": "login",
     "path": "/login",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/login/index.vue",
-    "chunkName": "pages/login/index",
-    "_name": "_889c0864"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
   },
   {
     "name": "post",
     "path": "/post",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/post/index.vue",
-    "chunkName": "pages/post/index",
-    "_name": "_081e2c1e"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\post\\\\index.vue",
+    "chunkName": "pages/post/index"
   },
   {
     "name": "search",
     "path": "/search",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/search/index.vue",
-    "chunkName": "pages/search/index",
-    "_name": "_67c7510e"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index"
   },
   {
     "name": "admin-category",
     "path": "/admin/category",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/category/index.vue",
-    "chunkName": "pages/admin/category/index",
-    "_name": "_05191c0f"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\index.vue",
+    "chunkName": "pages/admin/category/index"
   },
   {
     "name": "admin-dashboard",
     "path": "/admin/dashboard",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/dashboard/index.vue",
-    "chunkName": "pages/admin/dashboard/index",
-    "_name": "_44b339f9"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/admin/dashboard/index"
   },
   {
     "name": "admin-menu",
     "path": "/admin/menu",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/menu/index.vue",
-    "chunkName": "pages/admin/menu/index",
-    "_name": "_196f4ba0"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\index.vue",
+    "chunkName": "pages/admin/menu/index"
   },
   {
     "name": "admin-post",
     "path": "/admin/post",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/post/index.vue",
-    "chunkName": "pages/admin/post/index",
-    "_name": "_7b938031"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\index.vue",
+    "chunkName": "pages/admin/post/index"
   },
   {
     "name": "admin-slider",
     "path": "/admin/slider",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/slider/index.vue",
-    "chunkName": "pages/admin/slider/index",
-    "_name": "_46887db2"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\index.vue",
+    "chunkName": "pages/admin/slider/index"
   },
   {
     "name": "admin-tag",
     "path": "/admin/tag",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/tag/index.vue",
-    "chunkName": "pages/admin/tag/index",
-    "_name": "_7bb13eff"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\index.vue",
+    "chunkName": "pages/admin/tag/index"
   },
   {
     "name": "admin-user",
     "path": "/admin/user",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/user/index.vue",
-    "chunkName": "pages/admin/user/index",
-    "_name": "_0974199c"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\index.vue",
+    "chunkName": "pages/admin/user/index"
   },
   {
     "name": "admin-category-create",
     "path": "/admin/category/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/category/create/index.vue",
-    "chunkName": "pages/admin/category/create/index",
-    "_name": "_2f3b605c"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/category/create/index"
   },
   {
     "name": "admin-menu-create",
     "path": "/admin/menu/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/menu/create/index.vue",
-    "chunkName": "pages/admin/menu/create/index",
-    "_name": "_64381a91"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/menu/create/index"
   },
   {
     "name": "admin-post-create",
     "path": "/admin/post/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/post/create/index.vue",
-    "chunkName": "pages/admin/post/create/index",
-    "_name": "_53d13d20"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/post/create/index"
   },
   {
     "name": "admin-slider-create",
     "path": "/admin/slider/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/slider/create/index.vue",
-    "chunkName": "pages/admin/slider/create/index",
-    "_name": "_727360cf"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/slider/create/index"
   },
   {
     "name": "admin-tag-create",
     "path": "/admin/tag/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/tag/create/index.vue",
-    "chunkName": "pages/admin/tag/create/index",
-    "_name": "_bc4c023c"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/tag/create/index"
   },
   {
     "name": "admin-user-create",
     "path": "/admin/user/create",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/user/create/index.vue",
-    "chunkName": "pages/admin/user/create/index",
-    "_name": "_29b32cb6"
-  },
-  {
-    "name": "admin-category-edit-id",
-    "path": "/admin/category/edit/:id?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/category/edit/_id.vue",
-    "chunkName": "pages/admin/category/edit/_id",
-    "_name": "_346a2088"
-  },
-  {
-    "name": "admin-menu-edit-id",
-    "path": "/admin/menu/edit/:id?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/menu/edit/_id.vue",
-    "chunkName": "pages/admin/menu/edit/_id",
-    "_name": "_001922c7"
-  },
-  {
-    "name": "admin-post-edit-id",
-    "path": "/admin/post/edit/:id?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/post/edit/_id.vue",
-    "chunkName": "pages/admin/post/edit/_id",
-    "_name": "_bd969db4"
-  },
-  {
-    "name": "admin-tag-edit-id",
-    "path": "/admin/tag/edit/:id?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/tag/edit/_id.vue",
-    "chunkName": "pages/admin/tag/edit/_id",
-    "_name": "_26b3d798"
-  },
-  {
-    "name": "admin-user-edit-id",
-    "path": "/admin/user/edit/:id?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/admin/user/edit/_id.vue",
-    "chunkName": "pages/admin/user/edit/_id",
-    "_name": "_0d121bdb"
-  },
-  {
-    "name": "category-slug",
-    "path": "/category/:slug?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/category/_slug.vue",
-    "chunkName": "pages/category/_slug",
-    "_name": "_4115f6f2"
-  },
-  {
-    "name": "post-slug",
-    "path": "/post/:slug",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/post/_slug.vue",
-    "chunkName": "pages/post/_slug",
-    "_name": "_0b8b6eae"
-  },
-  {
-    "name": "tag-slug",
-    "path": "/tag/:slug?",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/tag/_slug.vue",
-    "chunkName": "pages/tag/_slug",
-    "_name": "_b12e0812"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/user/create/index"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/maulayyacyber/Development/NuxtProject/nuxt-cms/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_80b33318"
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  },
+  {
+    "name": "admin-category-edit-id",
+    "path": "/admin/category/edit/:id?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/category/edit/_id"
+  },
+  {
+    "name": "admin-menu-edit-id",
+    "path": "/admin/menu/edit/:id?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/menu/edit/_id"
+  },
+  {
+    "name": "admin-post-edit-id",
+    "path": "/admin/post/edit/:id?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/post/edit/_id"
+  },
+  {
+    "name": "admin-tag-edit-id",
+    "path": "/admin/tag/edit/:id?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/tag/edit/_id"
+  },
+  {
+    "name": "admin-user-edit-id",
+    "path": "/admin/user/edit/:id?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/user/edit/_id"
+  },
+  {
+    "name": "category-slug",
+    "path": "/category/:slug?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\category\\\\_slug.vue",
+    "chunkName": "pages/category/_slug"
+  },
+  {
+    "name": "post-slug",
+    "path": "/post/:slug",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\post\\\\_slug.vue",
+    "chunkName": "pages/post/_slug"
+  },
+  {
+    "name": "tag-slug",
+    "path": "/tag/:slug?",
+    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/tag/_slug"
   }
 ]
