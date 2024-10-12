@@ -2,151 +2,176 @@
   {
     "name": "login",
     "path": "/login",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\login\\\\index.vue",
-    "chunkName": "pages/login/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_6a5eaf5f"
   },
   {
     "name": "post",
     "path": "/post",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\post\\\\index.vue",
-    "chunkName": "pages/post/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\post\\\\index.vue",
+    "chunkName": "pages/post/index",
+    "_name": "_06933f0c"
   },
   {
     "name": "search",
     "path": "/search",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\search\\\\index.vue",
-    "chunkName": "pages/search/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\search\\\\index.vue",
+    "chunkName": "pages/search/index",
+    "_name": "_adc356f8"
   },
   {
     "name": "admin-category",
     "path": "/admin/category",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\index.vue",
-    "chunkName": "pages/admin/category/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\index.vue",
+    "chunkName": "pages/admin/category/index",
+    "_name": "_a936148a"
   },
   {
     "name": "admin-dashboard",
     "path": "/admin/dashboard",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
-    "chunkName": "pages/admin/dashboard/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/admin/dashboard/index",
+    "_name": "_d1f399b2"
   },
   {
     "name": "admin-menu",
     "path": "/admin/menu",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\index.vue",
-    "chunkName": "pages/admin/menu/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\index.vue",
+    "chunkName": "pages/admin/menu/index",
+    "_name": "_6c56338c"
   },
   {
     "name": "admin-post",
     "path": "/admin/post",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\index.vue",
-    "chunkName": "pages/admin/post/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\index.vue",
+    "chunkName": "pages/admin/post/index",
+    "_name": "_4aee8059"
   },
   {
     "name": "admin-slider",
     "path": "/admin/slider",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\index.vue",
-    "chunkName": "pages/admin/slider/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\index.vue",
+    "chunkName": "pages/admin/slider/index",
+    "_name": "_0d5c55b8"
   },
   {
     "name": "admin-tag",
     "path": "/admin/tag",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\index.vue",
-    "chunkName": "pages/admin/tag/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\index.vue",
+    "chunkName": "pages/admin/tag/index",
+    "_name": "_21112f21"
   },
   {
     "name": "admin-user",
     "path": "/admin/user",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\index.vue",
-    "chunkName": "pages/admin/user/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\index.vue",
+    "chunkName": "pages/admin/user/index",
+    "_name": "_7921144e"
   },
   {
     "name": "admin-category-create",
     "path": "/admin/category/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/category/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/category/create/index",
+    "_name": "_e859ba82"
   },
   {
     "name": "admin-menu-create",
     "path": "/admin/menu/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/menu/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/menu/create/index",
+    "_name": "_fd73b784"
   },
   {
     "name": "admin-post-create",
     "path": "/admin/post/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/post/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/post/create/index",
+    "_name": "_0f21a146"
   },
   {
     "name": "admin-slider-create",
     "path": "/admin/slider/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/slider/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\slider\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/slider/create/index",
+    "_name": "_18c59488"
   },
   {
     "name": "admin-tag-create",
     "path": "/admin/tag/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/tag/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/tag/create/index",
+    "_name": "_350ad3b6"
   },
   {
     "name": "admin-user-create",
     "path": "/admin/user/create",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\create\\\\index.vue",
-    "chunkName": "pages/admin/user/create/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\create\\\\index.vue",
+    "chunkName": "pages/admin/user/create/index",
+    "_name": "_05dcfe52"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_32d9d0ac"
   },
   {
     "name": "admin-category-edit-id",
     "path": "/admin/category/edit/:id?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\edit\\\\_id.vue",
-    "chunkName": "pages/admin/category/edit/_id"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\category\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/category/edit/_id",
+    "_name": "_a061884e"
   },
   {
     "name": "admin-menu-edit-id",
     "path": "/admin/menu/edit/:id?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\edit\\\\_id.vue",
-    "chunkName": "pages/admin/menu/edit/_id"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\menu\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/menu/edit/_id",
+    "_name": "_3bc4d4d8"
   },
   {
     "name": "admin-post-edit-id",
     "path": "/admin/post/edit/:id?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\edit\\\\_id.vue",
-    "chunkName": "pages/admin/post/edit/_id"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\post\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/post/edit/_id",
+    "_name": "_04364777"
   },
   {
     "name": "admin-tag-edit-id",
     "path": "/admin/tag/edit/:id?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\edit\\\\_id.vue",
-    "chunkName": "pages/admin/tag/edit/_id"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\tag\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/tag/edit/_id",
+    "_name": "_cf575b82"
   },
   {
     "name": "admin-user-edit-id",
     "path": "/admin/user/edit/:id?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\edit\\\\_id.vue",
-    "chunkName": "pages/admin/user/edit/_id"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\admin\\\\user\\\\edit\\\\_id.vue",
+    "chunkName": "pages/admin/user/edit/_id",
+    "_name": "_23384e28"
   },
   {
     "name": "category-slug",
     "path": "/category/:slug?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\category\\\\_slug.vue",
-    "chunkName": "pages/category/_slug"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\category\\\\_slug.vue",
+    "chunkName": "pages/category/_slug",
+    "_name": "_729e81a6"
   },
   {
     "name": "post-slug",
     "path": "/post/:slug",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\post\\\\_slug.vue",
-    "chunkName": "pages/post/_slug"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\post\\\\_slug.vue",
+    "chunkName": "pages/post/_slug",
+    "_name": "_04dc9dc4"
   },
   {
     "name": "tag-slug",
     "path": "/tag/:slug?",
-    "component": "C:\\\\Users\\\\user\\\\Downloads\\\\Compressed\\\\cms-rplsmart\\\\pages\\\\tag\\\\_slug.vue",
-    "chunkName": "pages/tag/_slug"
+    "component": "C:\\\\Users\\\\SkyL\\\\Documents\\\\project\\\\cms-rplsmart\\\\pages\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/tag/_slug",
+    "_name": "_28cca674"
   }
 ]
